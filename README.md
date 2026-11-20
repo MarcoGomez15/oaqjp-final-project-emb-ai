@@ -1,1 +1,3 @@
-# Repository for final project
+# Emotion Detector
+
+Final project: AI-based web application that detects emotions in text using the Watson NLP library, packaged in Python and deployed with Flask.
